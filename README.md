@@ -24,7 +24,7 @@ The game is implemented in Java using OOP principles:
 ## Installation
 1. Clone the repository:  
     ```
-    $ git clone https://github.com/ben6066/Arkanoid.git
+    $ git clone https://github.com/Orile14/Arkanoid
     ```
 2. Install [Apache Ant](https://ant.apache.org/bindownload.cgi)
 3. [Apache Ant Installation Video Windows 10](https://www.youtube.com/watch?v=3eaW81yYIqY&t=353s&ab_channel=xscourse)
